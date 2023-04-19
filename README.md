@@ -1,11 +1,17 @@
-# Sample Snack app
+# Relaxing app
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+- Suporta todas as versões dos dispositivos Android.
+- Suporta todas as versões dos dispositivos IOS.
+- Compatível com a maioria dos browsers.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Como usar:
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+1) O aplicativo após ser aberto possui um interface com o nome do Aplicativo e botões clicáveis.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+2) Após clicar nos botões, um texto aparecerá como resposta.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+3) Cada texto se refere ao conteúdo do botão.
+
+4) O texto mostrará o passo a passo para reduzir o estresse do indivíduo.
+
+5) Também é possível usar os outros botões para descobrir mais maneiras de aliviar o mental.
